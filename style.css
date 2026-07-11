@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+    border: 10px ;
+    border-color: antiquewhite;
+    border-style: groove;
+}
+body{
+    text-align: center;
+    font-family: cursive;
+    background-color: aliceblue;
+}
