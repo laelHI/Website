@@ -6,6 +6,7 @@ img {
 }
 body{
     text-align: center;
-    font-family: cursive;
+    font-family: cursive, monospace;
     background-color: aliceblue;
+
 }
